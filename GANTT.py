@@ -75,6 +75,3 @@ plt.grid(True)
 # Afficher le diagramme
 plt.tight_layout()
 plt.show()
-
-# Sauvegarder le diagramme
-plt.savefig('gantt_chart_abeilleconnect.png')
